@@ -27,7 +27,7 @@ The project already includes the war file needed for Tomcat (nrpro-backend/targe
 if necessary, it can be re-build using Maven:
 
 ```bash
-mvn deploy
+mvn install
 ```
 
 ## Citation
