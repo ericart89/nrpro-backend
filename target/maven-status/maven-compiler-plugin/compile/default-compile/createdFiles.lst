@@ -1,0 +1,15 @@
+org/expasy/nrpro/Annot2.class
+org/expasy/nrpro/MongoConnectionServlet.class
+org/expasy/nrpro/Data.class
+org/expasy/nrpro/Annotation.class
+org/expasy/nrpro/EditedData2MongoAnnotation.class
+org/expasy/nrpro/MongoDBConnection.class
+org/expasy/nrpro/EditedData.class
+org/expasy/nrpro/ResultSerializer.class
+org/expasy/nrpro/SpectraAnnot.class
+org/expasy/nrpro/Annot.class
+org/expasy/nrpro/Result.class
+org/expasy/nrpro/SpectrumResource.class
+org/expasy/nrpro/SpectrumResource$1.class
+org/expasy/nrpro/MongoAnnotation.class
+org/expasy/nrpro/Query.class

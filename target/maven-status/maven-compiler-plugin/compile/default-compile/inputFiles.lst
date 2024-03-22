@@ -1,0 +1,14 @@
+/home/ericart/IdeaProjects/NRPro/nrpro-webapp/nrpro-backend/src/main/java/org/expasy/nrpro/Query.java
+/home/ericart/IdeaProjects/NRPro/nrpro-webapp/nrpro-backend/src/main/java/org/expasy/nrpro/Annot.java
+/home/ericart/IdeaProjects/NRPro/nrpro-webapp/nrpro-backend/src/main/java/org/expasy/nrpro/MongoDBConnection.java
+/home/ericart/IdeaProjects/NRPro/nrpro-webapp/nrpro-backend/src/main/java/org/expasy/nrpro/SpectrumResource.java
+/home/ericart/IdeaProjects/NRPro/nrpro-webapp/nrpro-backend/src/main/java/org/expasy/nrpro/ResultSerializer.java
+/home/ericart/IdeaProjects/NRPro/nrpro-webapp/nrpro-backend/src/main/java/org/expasy/nrpro/MongoConnectionServlet.java
+/home/ericart/IdeaProjects/NRPro/nrpro-webapp/nrpro-backend/src/main/java/org/expasy/nrpro/Annotation.java
+/home/ericart/IdeaProjects/NRPro/nrpro-webapp/nrpro-backend/src/main/java/org/expasy/nrpro/EditedData2MongoAnnotation.java
+/home/ericart/IdeaProjects/NRPro/nrpro-webapp/nrpro-backend/src/main/java/org/expasy/nrpro/Result.java
+/home/ericart/IdeaProjects/NRPro/nrpro-webapp/nrpro-backend/src/main/java/org/expasy/nrpro/MongoAnnotation.java
+/home/ericart/IdeaProjects/NRPro/nrpro-webapp/nrpro-backend/src/main/java/org/expasy/nrpro/Data.java
+/home/ericart/IdeaProjects/NRPro/nrpro-webapp/nrpro-backend/src/main/java/org/expasy/nrpro/SpectraAnnot.java
+/home/ericart/IdeaProjects/NRPro/nrpro-webapp/nrpro-backend/src/main/java/org/expasy/nrpro/Annot2.java
+/home/ericart/IdeaProjects/NRPro/nrpro-webapp/nrpro-backend/src/main/java/org/expasy/nrpro/EditedData.java
