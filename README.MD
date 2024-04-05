@@ -1,11 +1,11 @@
 # NRPro-backend
 
-This is the back-end service for [NRPro](https://bitbucket.org/sib-pig/rban/src/master/). It's a
+This is the back-end service for [NRPro](https://bitbucket.org/sib-pig/nrpro-private/src/master/). It's a
 Java API that can be packaged in a war file and deployed by the Tomcat server. The Dockerfile included in the project
 already contains tomcat. The container uses the file _tomcat_conf/web.xml_ to change its
 configuration in order to adapt the CORS filters.
 
-The project is a git submodule of [NRPro-webapp](https://bitbucket.org/sib-pig/rban/src/master/) where all the
+The project is a git submodule of [NRPro-webapp](https://bitbucket.org/sib-pig/nrpro-webapp/src/master/) where all the
 components of the application can be deployed with docker-compose.
 
 ## Deployment
@@ -32,7 +32,7 @@ mvn install
 
 ## Citation
 
-Ricart, E., Pupin, M., MÃ¼ller, M. et al. Automatic annotation and dereplication of tandem mass spectra of peptidic natural products.
+Ricart, E., Pupin, M., Müller, M. et al. Automatic annotation and dereplication of tandem mass spectra of peptidic natural products.
 https://pubs.acs.org/doi/10.1021/acs.analchem.0c03208
 
 ## License
