@@ -1,6 +1,5 @@
 # NRPro Backend
 
-<<<<<<< HEAD
 This is the back-end service for [NRPro](https://bitbucket.org/sib-pig/nrpro-private/src/master/). It's a
 Java API that can be packaged in a war file and deployed by the Tomcat server. The Dockerfile included in the project
 already contains tomcat. The container uses the file _tomcat_conf/web.xml_ to change its
@@ -17,12 +16,12 @@ This repository is included as a Git submodule of the **NRPro Webapp**, which or
 
 ## Related resources
 
-- 🌐 **Live application:** https://norine.univ-lille.fr/nrpro/
-- 📄 **Publication:** https://doi.org/10.1021/acs.analchem.0c03208
-- 🖥️ **Main project:** https://github.com/ericart89/nrpro-webapp
+- **Live application:** https://norine.univ-lille.fr/nrpro/
+- **Publication:** https://doi.org/10.1021/acs.analchem.0c03208
+- **Main project:** https://github.com/ericart89/nrpro-webapp
 
 ---
->>>>>>> 850d953 (Improve backend documentation)
+
 
 ## Deployment
 
@@ -75,7 +74,6 @@ Ricart, E., Pupin, M., Müller, M., & Lisacek, F.
 https://doi.org/10.1021/acs.analchem.0c03208
 
 ---
->>>>>>> 850d953 (Improve backend documentation)
 
 ## License
 
