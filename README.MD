@@ -1,10 +1,12 @@
 # NRPro Backend
 
-The **NRPro Backend** implements the core annotation engine, business logic, and REST services of the **NRPro** research software platform. It processes tandem mass spectra, performs annotation and dereplication against the NRPro database, and exposes the functionality through a Java-based API.
+The **NRPro Backend** is a lightweight Java API that exposes the functionality of **NRPro Core**, the computational engine of the NRPro platform.
 
-The backend is developed in Java and packaged as a WAR application for deployment with Apache Tomcat. The included Dockerfile provides a complete Tomcat-based deployment environment, while `tomcat_conf/web.xml` configures the required CORS filters.
+It acts as the communication layer between the web interface and the scientific algorithms, handling HTTP requests, invoking the core annotation library, and returning the analysis results to the client.
 
-This repository is included as a Git submodule of the **NRPro Webapp**, which orchestrates the complete platform (frontend, backend, and database) using Docker Compose.
+The backend is packaged as a WAR application for deployment with Apache Tomcat. The included Dockerfile provides a complete Tomcat-based deployment environment, while `tomcat_conf/web.xml` configures the required CORS filters.
+
+This repository is included as a Git submodule of the **NRPro** project, which orchestrates the complete platform (frontend, backend, core library, and database) using Docker Compose.
 
 ## Related resources
 
